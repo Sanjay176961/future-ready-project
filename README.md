@@ -13,4 +13,4 @@
 <img src="https://res.cloudinary.com/dq4turihq/image/upload/v1661842856/Screenshot_2022-08-30_123030_jsgc16.png"/>
 <h3>Other details regarding the address,contact number and mail have been included as follows.</h3>
 <img src="https://res.cloudinary.com/dq4turihq/image/upload/v1661843059/Screenshot_2022-08-30_123323_rovspo.png"/>
-<h3>The link to the website is:
+<h3>The link to the website is:https://red-sea-0d4561d10.1.azurestaticapps.net/
